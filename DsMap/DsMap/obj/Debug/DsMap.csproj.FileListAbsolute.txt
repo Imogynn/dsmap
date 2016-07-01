@@ -1,0 +1,5 @@
+C:\Work\dsmap\DsMap\DsMap\bin\Debug\DsMap.dll
+C:\Work\dsmap\DsMap\DsMap\bin\Debug\DsMap.pdb
+C:\Work\dsmap\DsMap\DsMap\obj\Debug\DsMap.csprojResolveAssemblyReference.cache
+C:\Work\dsmap\DsMap\DsMap\obj\Debug\DsMap.dll
+C:\Work\dsmap\DsMap\DsMap\obj\Debug\DsMap.pdb

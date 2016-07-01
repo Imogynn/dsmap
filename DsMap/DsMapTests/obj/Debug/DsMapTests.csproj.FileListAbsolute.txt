@@ -1,0 +1,7 @@
+C:\Work\dsmap\DsMap\DsMapTests\bin\Debug\DsMapTests.dll
+C:\Work\dsmap\DsMap\DsMapTests\bin\Debug\DsMapTests.pdb
+C:\Work\dsmap\DsMap\DsMapTests\bin\Debug\nunit.framework.dll
+C:\Work\dsmap\DsMap\DsMapTests\bin\Debug\nunit.framework.xml
+C:\Work\dsmap\DsMap\DsMapTests\obj\Debug\DsMapTests.csprojResolveAssemblyReference.cache
+C:\Work\dsmap\DsMap\DsMapTests\obj\Debug\DsMapTests.dll
+C:\Work\dsmap\DsMap\DsMapTests\obj\Debug\DsMapTests.pdb
